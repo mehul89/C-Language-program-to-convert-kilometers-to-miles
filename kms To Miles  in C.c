@@ -2,7 +2,7 @@
 
 int main()
 {
-
+// input
     char input;
     float kmsToMiles = 0.621371;
     float inchesToFoot = 0.0833333;
